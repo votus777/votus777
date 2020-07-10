@@ -8,7 +8,7 @@
 
 - 📫 How to reach me : 
       
-      E-mail : chohansae@mail.com 
+      E-mail : chohansae@gmail.com 
       
 - ⚡ Fun fact : Consist of 25% Kinesiology, 25%  Game-Design and 50% AI 
       
