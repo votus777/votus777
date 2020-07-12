@@ -10,7 +10,7 @@
       
       E-mail : chohansae@gmail.com 
       
-- ⚡ Fun fact : Consist of 25% Kinesiology, 25%  Game-Design and 50% AI 
+- ⚡ Fun fact : Consist of 25% **Kinesiology**, 25%  **Game-Design** and 50% **AI** 
       
 <!--
 **votus777/votus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
