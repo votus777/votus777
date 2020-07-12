@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning 
-      Tensorflow with Keras, bit python & ML in Bitcamp
+      **Tensorflow with Keras**, bit **python** & **ML** in Bitcamp
       
-- 🤔 I’m looking for help with Project Management, Data analyzing with statistics 
+- 🤔 I’m looking for help with **Project Management**, **Data analyzing with statistics** 
 
 
 - 📫 How to reach me : 
