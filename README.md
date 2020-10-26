@@ -15,8 +15,8 @@
 
 
 
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008){: .center}
-<center><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008" width="300" height="300"></center>
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008){: width="500" height="300"}
+
 
 <!--
 **votus777/votus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
