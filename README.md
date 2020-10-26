@@ -15,7 +15,7 @@
 
 
 
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008)
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008){: .center}
 
 
 <!--
