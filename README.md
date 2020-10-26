@@ -11,7 +11,11 @@
       E-mail : chohansae@gmail.com 
       
 - ⚡ Fun fact : Consist of 25% **Kinesiology**, 25%  **Game-Design** and 50% **AI** 
-      
+
+
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008)
+
+
 <!--
 **votus777/votus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
