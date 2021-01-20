@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning 
-      **Tensorflow with Keras**, bit **python** & **ML** in Bitcamp
+      **Tensorflow with Keras**, bit **python** & **ML** 
       
 - 🤔 I’m looking for help with **Project Management**, **Data analyzing with statistics** 
 
