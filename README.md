@@ -2,10 +2,9 @@
 
 - 🌱 I’m currently learning 
       **Tensorflow with Keras**, bit **python** & **ML** 
-      
-- 🤔 I’m looking for help with **Project Management**, **Data analyzing with statistics** 
 
-
+- 💬 I'm interested in Fraud Detection using AI & ML.
+- 
 - 📫 How to reach me : 
       
       E-mail : chohansae@gmail.com 
