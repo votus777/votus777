@@ -8,6 +8,7 @@
 - 📫 How to reach me : 
       
       E-mail : chohansae@gmail.com 
+      Blog   : votus777.github.io
       
 - ⚡ Fun fact : Consist of 25% **Kinesiology**, 25%  **Game-Design** and 50% **AI** 
 
