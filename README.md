@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning 
-      **Tensorflow with Keras**, bit **python** & **ML** 
+      **Tensorflow with Keras**, **Pytorch**, bit **python** & **ML** 
       
 - 🔭 I’m currently working on EpiSys Science, Inc. as a paid Internship. 
 
