@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
       **Tensorflow with Keras**, bit **python** & **ML** 
       
-- 🔭 I’m currently working on EpiSci.Inc as a paid Internship. 
+- 🔭 I’m currently working on EpiSys Science, Inc. as a paid Internship. 
 
 - 💬 I'm interested in Fraud Detection using AI & ML.
 
