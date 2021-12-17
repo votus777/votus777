@@ -5,17 +5,18 @@
 - 🌱 I’m currently learning 
       **Tensorflow with Keras**, **PyTorch**, bit **python** & **ML** 
       
-- 🔭 I’m currently working on **EpiSys Science, Inc.** as a paid Internship. 
+- 🔭 I worked on **EpiSys Science, Inc.** as a paid Internship. 
 
-- 💬 I'm interested in Fraud Detection using AI & ML.
+- 📫 I'm currently enrolled in Master’s student of Data Science at the graduate school of Intelligence Computing at Hanyang University
 
-- 📫 How to reach me : 
+- 💬 I'm interested in solving problems with human behavior data.
+
+- 🌱 How to reach me : 
       
       E-mail : chohansae@gmail.com 
       Blog   : votus777.github.io
       
-- ⚡ Fun fact : Consist of 25% **Kinesiology**, 25%  **Game-Design** and 50% **AI** 
-
+- ✨ Fun fact : Consist of **Kinesiology**, **Game-Design**, **AI** and **Data Science** 
 
 
 <p align="center"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008"></p>
