@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning 
       **Tensorflow with Keras**, **PyTorch**, bit **python** & **ML** 
       
-- 🔭 I worked on **EpiSys Science, Inc.** as a paid Internship. 
+- 🔭 I worked on **EpiSys Science, Inc.** in CA as a paid Internship. 
 
 - 📫 I'm currently enrolled in **Master’s student of Data Science** at the graduate school of Intelligence Computing at Hanyang University.
 
