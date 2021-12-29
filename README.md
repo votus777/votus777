@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning 
-      **Tensorflow with Keras**, **PyTorch**, bit **python** & **ML** 
+      **Data Science**, **PyTorch**, **python** & **ML** 
       
 - 🔭 I worked on **EpiSys Science, Inc.** in CA as a paid Internship. 
 
