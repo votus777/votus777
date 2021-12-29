@@ -19,10 +19,11 @@
 - ✨ Fun fact : Consist of **Kinesiology**, **Game-Design**, **AI** and **Data Science** 
 
 
+<!--
+
+
 <p align="center"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24629008"></p>
 
-
-<!--
 **votus777/votus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
