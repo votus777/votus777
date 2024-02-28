@@ -7,7 +7,7 @@
       
 - 🔭 I worked on **EpiSys Science, Inc.** in CA as a paid Internship. 
 
-- 📫 I'm currently enrolled in **Master’s student of Data Science** at Hanyang University.
+- 📫 I graduated **Master’s student of Data Science** at Hanyang University.
 
 - 💬 I'm interested in solving problems with human behavior data.
 
